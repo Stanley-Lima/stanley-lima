@@ -1,7 +1,7 @@
 ### Hi, sailor <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
 </h1>
 
-- 🔭 I’m currently working a Senior Cloud Solutions Architect.
+- 🔭 I’m currently working a Senior Cloud Solutions Architect
 - 📫 How to reach me: https://www.linkedin.com/in/stanley-lima-919ab1a2/
 
 <h1 align="center">
